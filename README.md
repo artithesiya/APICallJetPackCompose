@@ -1,5 +1,3 @@
-Certainly! Below is a sample README file for using Jetpack Compose to make API calls to the given endpoint:
-
 ---
 
 # Jetpack Compose API Calling Example
@@ -17,7 +15,7 @@ This project demonstrates how to make API calls using Jetpack Compose in an Andr
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your/repository.git
+git clone [https://github.com/your/repository.git](https://github.com/artithesiya/APICallJetPackCompose.git)
 ```
 
 ### Open Project in Android Studio
